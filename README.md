@@ -10,7 +10,7 @@
     <div markdown="1">
       <ul>
         <li> Max Consecutive Ones :white_check_mark:
-        <li> Find Numbers with Even Number of Digits
+        <li> Find Numbers with Even Number of Digits :white_check_mark:
         <li> Squares of a Sorted Array
         <li> Duplicate Zeros
         <li> Merge Sorted Array
