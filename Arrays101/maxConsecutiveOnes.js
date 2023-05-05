@@ -19,7 +19,7 @@ const findMaxConsecutiveOnes = nums => {
 
   return maximumCnt
 }
-
-const test = findMaxConsecutiveOnes([1, 1, 0, 1, 1, 1])
+const example = [1, 1, 0, 1, 1, 1]
+const test = findMaxConsecutiveOnes(example)
 
 console.log(test) // 3
