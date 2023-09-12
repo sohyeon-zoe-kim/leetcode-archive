@@ -12,7 +12,7 @@
         <li> Max Consecutive Ones :white_check_mark:
         <li> Find Numbers with Even Number of Digits :white_check_mark:
         <li> Squares of a Sorted Array :white_check_mark:
-        <li> Duplicate Zeros
+        <li> Duplicate Zeros :white_check_mark:
         <li> Merge Sorted Array
         <li> Remove Element
         <li> Remove Duplicates from Sorted Array
