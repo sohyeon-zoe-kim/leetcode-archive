@@ -13,7 +13,7 @@
         <li> Find Numbers with Even Number of Digits :white_check_mark:
         <li> Squares of a Sorted Array :white_check_mark:
         <li> Duplicate Zeros :white_check_mark:
-        <li> Merge Sorted Array
+        <li> Merge Sorted Array :white_check_mark:
         <li> Remove Element
         <li> Remove Duplicates from Sorted Array
         <li> Check If N and Its Double Exist
