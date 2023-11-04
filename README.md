@@ -16,7 +16,7 @@
         <li> Merge Sorted Array :white_check_mark:
         <li> Remove Element :white_check_mark:
         <li> Remove Duplicates from Sorted Array :white_check_mark:
-        <li> Check If N and Its Double Exist
+        <li> Check If N and Its Double Exist :white_check_mark:
         <li> Valid Mountain Array
         <li> Replace Elements with Greatest Element on Right Side
         <li> Remove Duplicates from Sorted Array
