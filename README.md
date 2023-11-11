@@ -1,7 +1,4 @@
 ## Leet Code 알고리즘 풀이 Archive:heartpulse:
-하루에 한 문제씩 풀기 / 1 question per day
-
-## 목차:paw_prints:
 ### 1. Arrays101
 - [Leet Code 링크](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/)
 
@@ -27,6 +24,18 @@
         <li> Third Maximum Number
         <li> Find All Numbers Disappeared in an Array
         <li> Squares of a Sorted Array
+      <ul>
+    </div>
+  </details>
+
+### 2. Dynamic Programming
+- [Leet Code 링크](https://leetcode.com/problemset/all/?difficulty=EASY&page=1&topicSlugs=dynamic-programming)
+
+  <details>
+    <summary> 알고리즘 문제 </summary>
+    <div markdown="1">
+      <ul>
+        <li> 392. Is Subsequence :white_check_mark:
       <ul>
     </div>
   </details>
