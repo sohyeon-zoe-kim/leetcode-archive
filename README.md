@@ -36,6 +36,7 @@
     <div markdown="1">
       <ul>
         <li> 392. Is Subsequence :white_check_mark:
+        <li> 119. Pascal's Triangle II :white_check_mark:
       <ul>
     </div>
   </details>
