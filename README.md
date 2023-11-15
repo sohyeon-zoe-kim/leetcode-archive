@@ -38,6 +38,7 @@
         <li> 392. Is Subsequence :white_check_mark:
         <li> 118. Pascal's Triangle :white_check_mark:
         <li> 119. Pascal's Triangle II :white_check_mark:
+        <li> 131. Palindrome Partitioning :white_check_mark:
       <ul>
     </div>
   </details>
