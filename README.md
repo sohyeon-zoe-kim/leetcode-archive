@@ -38,6 +38,7 @@
     <summary> 알고리즘 문제 </summary>
     <div markdown="1">
       <ul>
+        <li> 70. Climbing Stairs :white_check_mark:
         <li> 118. Pascal's Triangle :white_check_mark:
         <li> 119. Pascal's Triangle II :white_check_mark:
         <li> 131. Palindrome Partitioning :white_check_mark:
