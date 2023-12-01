@@ -19,7 +19,7 @@
         <li> Valid Mountain Array :white_check_mark:
         <li> Replace Elements with Greatest Element on Right Side :white_check_mark:
         <li> Move Zeroes :white_check_mark:
-        <li> Sort Array By Parity
+        <li> Sort Array By Parity :white_check_mark:
         <li> Remove Element
         <li> Height Checker
         <li> Third Maximum Number
