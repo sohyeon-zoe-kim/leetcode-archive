@@ -20,11 +20,9 @@
         <li> Replace Elements with Greatest Element on Right Side :white_check_mark:
         <li> Move Zeroes :white_check_mark:
         <li> Sort Array By Parity :white_check_mark:
-        <li> Remove Element
-        <li> Height Checker
+        <li> Height Checker :white_check_mark:
         <li> Third Maximum Number
         <li> Find All Numbers Disappeared in an Array
-        <li> Squares of a Sorted Array
       <ul>
     </div>
   </details>
