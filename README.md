@@ -21,7 +21,7 @@
         <li> Move Zeroes :white_check_mark:
         <li> Sort Array By Parity :white_check_mark:
         <li> Height Checker :white_check_mark:
-        <li> Third Maximum Number
+        <li> Third Maximum Number :white_check_mark:
         <li> Find All Numbers Disappeared in an Array
       <ul>
     </div>
