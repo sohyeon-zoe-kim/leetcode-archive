@@ -22,7 +22,7 @@
         <li> Sort Array By Parity :white_check_mark:
         <li> Height Checker :white_check_mark:
         <li> Third Maximum Number :white_check_mark:
-        <li> Find All Numbers Disappeared in an Array
+        <li> Find All Numbers Disappeared in an Array :white_check_mark:
       <ul>
     </div>
   </details>
