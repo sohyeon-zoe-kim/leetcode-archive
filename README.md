@@ -1,4 +1,4 @@
-## Leet Code 알고리즘 풀이 Archive:heartpulse:
+## Leet Code 알고리즘 풀이 Archive
 
 ### 1. Arrays101
 
@@ -47,6 +47,6 @@
     </div>
   </details>
 
-## 참고 링크:sunflower:
+## 참고 링크
 
 [Leet Code](https://leetcode.com/)
