@@ -1,5 +1,9 @@
 ## Leet Code 알고리즘 풀이 Archive
 
+:white_check_mark: 스스로 푼 문제  
+:sparkles: 스스로 풀기 + 다른 사람 풀이 참고하여 한번 더 푼 문제  
+:bookmark: 다른 사람 풀이를 봤는데도, 이해가 잘 가지 않는 문제
+
 ### 1. Arrays101
 
 - [Leet Code 링크](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/)
@@ -47,6 +51,20 @@
         <li> 746. Min Cost Climbing Stairs :white_check_mark:
         <li> 1025. Divisor Game :white_check_mark:
         <li> 1137. N-th Tribonacci Number :white_check_mark:
+      <ul>
+    </div>
+  </details>
+
+### 3. Grind75
+
+- [링크](https://www.techinterviewhandbook.org/grind75)
+- Leetcode에 있는 문제들 중 알고리즘 테스트 대비에 핵심적인 169문제만 페이스북 엔지니어가 엄선해 놓은 사이트
+
+  <details>
+    <summary> 알고리즘 문제 </summary>
+    <div markdown="1">
+      <ul>
+        <li> 1. Two Sum :sparkles:
       <ul>
     </div>
   </details>
